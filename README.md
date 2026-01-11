@@ -1,8 +1,8 @@
 # ChinaMajorsData
-普通高等学校本科专业目录(2025版) cvs数据
+普通高等学校本科专业目录(2025版) csv数据
 
-discipline_categories 学科门类 (12个门类)
+discipline_categories.csv 学科门类 (12个门类)
 
-major_categories 专业类 (93个专业类)
+major_categories.csv 专业类 (93个专业类)
 
-majors 专业 (845个专业)
+majors.csv 专业 (845个专业)
